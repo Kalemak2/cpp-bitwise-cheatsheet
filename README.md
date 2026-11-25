@@ -1,5 +1,3 @@
-# cpp-bitwise-cheatsheet
-Interaktywna ściąga w C++ prezentująca podstawowe operacje bitowe oraz działanie masek (AND, OR, XOR, NOT, przesunięcia bitowe).
 # C++ Bitwise Operations Cheatsheet
 
 Prosty program konsolowy w C++ demonstrujący w praktyce działanie podstawowych operatorów bitowych oraz masek z wizualizacją binarną krok po kroku (`std::bitset`).
